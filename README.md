@@ -1,1 +1,4 @@
 # ProjectRobot1_2025
+This project is a comprehensive exercise that integrates the Agile development methodology with hands-on hardware programming to create a functional micro:bit robot. Students will implement a complete robotic control system using Micro:bit V2 development boards and TinyBit extension modules, applying Scrum framework principles throughout the development lifecycle.
+The project encompasses four core functional modules: basic movement control, multi-directional navigation, speed gradient management, and path pattern execution. Through iterative sprints, participants will develop L, O, D, and Z letter-shaped path algorithms while mastering hardware-software integration, version control with GitHub, and real-time sensor-motor coordination.
+This hands-on experience bridges theoretical Agile practices with practical embedded systems development, preparing students for complex engineering challenges in robotics and IoT applications.
